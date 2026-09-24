@@ -1,0 +1,19 @@
+# 2256C - Hot Potatoes at the Fairy Warehouse
+
+- Contest: 2256
+- Index: C
+- Link: https://codeforces.com/contest/2256/problem/C
+
+## Solution
+
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    return 0;
+}
+```
