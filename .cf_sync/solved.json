@@ -1,0 +1,542 @@
+{
+  "155-A": {
+    "contestId": 155,
+    "index": "A",
+    "name": "I_love_\\%username\\%",
+    "url": "https://codeforces.com/contest/155/problem/A"
+  },
+  "1154-A": {
+    "contestId": 1154,
+    "index": "A",
+    "name": "Restoring Three Numbers",
+    "url": "https://codeforces.com/contest/1154/problem/A"
+  },
+  "427-A": {
+    "contestId": 427,
+    "index": "A",
+    "name": "Police Recruits",
+    "url": "https://codeforces.com/contest/427/problem/A"
+  },
+  "61-A": {
+    "contestId": 61,
+    "index": "A",
+    "name": "Ultra-Fast Mathematician",
+    "url": "https://codeforces.com/contest/61/problem/A"
+  },
+  "1703-A": {
+    "contestId": 1703,
+    "index": "A",
+    "name": "YES or YES?",
+    "url": "https://codeforces.com/contest/1703/problem/A"
+  },
+  "116-A": {
+    "contestId": 116,
+    "index": "A",
+    "name": "Tram",
+    "url": "https://codeforces.com/contest/116/problem/A"
+  },
+  "858-A": {
+    "contestId": 858,
+    "index": "A",
+    "name": "k-rounding",
+    "url": "https://codeforces.com/contest/858/problem/A"
+  },
+  "797-A": {
+    "contestId": 797,
+    "index": "A",
+    "name": "k-Factorization",
+    "url": "https://codeforces.com/contest/797/problem/A"
+  },
+  "2256-C": {
+    "contestId": 2256,
+    "index": "C",
+    "name": "Hot Potatoes at the Fairy Warehouse",
+    "url": "https://codeforces.com/contest/2256/problem/C"
+  },
+  "2256-B": {
+    "contestId": 2256,
+    "index": "B",
+    "name": "Domino Tiles",
+    "url": "https://codeforces.com/contest/2256/problem/B"
+  },
+  "2256-A": {
+    "contestId": 2256,
+    "index": "A",
+    "name": "Three Numbers on the Blackboard",
+    "url": "https://codeforces.com/contest/2256/problem/A"
+  },
+  "122-A": {
+    "contestId": 122,
+    "index": "A",
+    "name": "Lucky Division",
+    "url": "https://codeforces.com/contest/122/problem/A"
+  },
+  "58-A": {
+    "contestId": 58,
+    "index": "A",
+    "name": "Chat room",
+    "url": "https://codeforces.com/contest/58/problem/A"
+  },
+  "17-A": {
+    "contestId": 17,
+    "index": "A",
+    "name": "Noldbach problem",
+    "url": "https://codeforces.com/contest/17/problem/A"
+  },
+  "776-B": {
+    "contestId": 776,
+    "index": "B",
+    "name": "Sherlock and his girlfriend",
+    "url": "https://codeforces.com/contest/776/problem/B"
+  },
+  "1335-A": {
+    "contestId": 1335,
+    "index": "A",
+    "name": "Candies and Two Sisters",
+    "url": "https://codeforces.com/contest/1335/problem/A"
+  },
+  "318-A": {
+    "contestId": 318,
+    "index": "A",
+    "name": "Even Odds",
+    "url": "https://codeforces.com/contest/318/problem/A"
+  },
+  "550-B": {
+    "contestId": 550,
+    "index": "B",
+    "name": "Preparing Olympiad",
+    "url": "https://codeforces.com/contest/550/problem/B"
+  },
+  "1878-E": {
+    "contestId": 1878,
+    "index": "E",
+    "name": "Iva & Pav",
+    "url": "https://codeforces.com/contest/1878/problem/E"
+  },
+  "677-A": {
+    "contestId": 677,
+    "index": "A",
+    "name": "Vanya and Fence",
+    "url": "https://codeforces.com/contest/677/problem/A"
+  },
+  "2254-C1": {
+    "contestId": 2254,
+    "index": "C1",
+    "name": "Marenol (easy version)",
+    "url": "https://codeforces.com/contest/2254/problem/C1"
+  },
+  "2254-B": {
+    "contestId": 2254,
+    "index": "B",
+    "name": "Evanescent",
+    "url": "https://codeforces.com/contest/2254/problem/B"
+  },
+  "2254-A": {
+    "contestId": 2254,
+    "index": "A",
+    "name": "Riptide",
+    "url": "https://codeforces.com/contest/2254/problem/A"
+  },
+  "1807-A": {
+    "contestId": 1807,
+    "index": "A",
+    "name": "Plus or Minus",
+    "url": "https://codeforces.com/contest/1807/problem/A"
+  },
+  "486-A": {
+    "contestId": 486,
+    "index": "A",
+    "name": "Calculating Function",
+    "url": "https://codeforces.com/contest/486/problem/A"
+  },
+  "133-A": {
+    "contestId": 133,
+    "index": "A",
+    "name": "HQ9+",
+    "url": "https://codeforces.com/contest/133/problem/A"
+  },
+  "2119-A": {
+    "contestId": 2119,
+    "index": "A",
+    "name": "Add or XOR",
+    "url": "https://codeforces.com/contest/2119/problem/A"
+  },
+  "1669-A": {
+    "contestId": 1669,
+    "index": "A",
+    "name": "Division?",
+    "url": "https://codeforces.com/contest/1669/problem/A"
+  },
+  "1669-H": {
+    "contestId": 1669,
+    "index": "H",
+    "name": "Maximal AND",
+    "url": "https://codeforces.com/contest/1669/problem/H"
+  },
+  "1698-A": {
+    "contestId": 1698,
+    "index": "A",
+    "name": "XOR Mixup",
+    "url": "https://codeforces.com/contest/1698/problem/A"
+  },
+  "2020-A": {
+    "contestId": 2020,
+    "index": "A",
+    "name": "Find Minimum Operations",
+    "url": "https://codeforces.com/contest/2020/problem/A"
+  },
+  "1201-C": {
+    "contestId": 1201,
+    "index": "C",
+    "name": "Maximum Median",
+    "url": "https://codeforces.com/contest/1201/problem/C"
+  },
+  "200-B": {
+    "contestId": 200,
+    "index": "B",
+    "name": "Drinks",
+    "url": "https://codeforces.com/contest/200/problem/B"
+  },
+  "236-A": {
+    "contestId": 236,
+    "index": "A",
+    "name": "Boy or Girl",
+    "url": "https://codeforces.com/contest/236/problem/A"
+  },
+  "4-C": {
+    "contestId": 4,
+    "index": "C",
+    "name": "Registration System",
+    "url": "https://codeforces.com/contest/4/problem/C"
+  },
+  "69-A": {
+    "contestId": 69,
+    "index": "A",
+    "name": "Young Physicist",
+    "url": "https://codeforces.com/contest/69/problem/A"
+  },
+  "96-A": {
+    "contestId": 96,
+    "index": "A",
+    "name": "Football",
+    "url": "https://codeforces.com/contest/96/problem/A"
+  },
+  "1520-A": {
+    "contestId": 1520,
+    "index": "A",
+    "name": "Do Not Be Distracted!",
+    "url": "https://codeforces.com/contest/1520/problem/A"
+  },
+  "2185-B": {
+    "contestId": 2185,
+    "index": "B",
+    "name": "Prefix Max",
+    "url": "https://codeforces.com/contest/2185/problem/B"
+  },
+  "705-A": {
+    "contestId": 705,
+    "index": "A",
+    "name": "Hulk",
+    "url": "https://codeforces.com/contest/705/problem/A"
+  },
+  "1328-A": {
+    "contestId": 1328,
+    "index": "A",
+    "name": "Divisibility Problem",
+    "url": "https://codeforces.com/contest/1328/problem/A"
+  },
+  "131-A": {
+    "contestId": 131,
+    "index": "A",
+    "name": "cAPS lOCK",
+    "url": "https://codeforces.com/contest/131/problem/A"
+  },
+  "118-A": {
+    "contestId": 118,
+    "index": "A",
+    "name": "String Task",
+    "url": "https://codeforces.com/contest/118/problem/A"
+  },
+  "723-A": {
+    "contestId": 723,
+    "index": "A",
+    "name": "The New Year: Meeting Friends",
+    "url": "https://codeforces.com/contest/723/problem/A"
+  },
+  "469-A": {
+    "contestId": 469,
+    "index": "A",
+    "name": "I Wanna Be the Guy",
+    "url": "https://codeforces.com/contest/469/problem/A"
+  },
+  "678-A": {
+    "contestId": 678,
+    "index": "A",
+    "name": "Johny Likes Numbers",
+    "url": "https://codeforces.com/contest/678/problem/A"
+  },
+  "41-A": {
+    "contestId": 41,
+    "index": "A",
+    "name": "Translation",
+    "url": "https://codeforces.com/contest/41/problem/A"
+  },
+  "734-A": {
+    "contestId": 734,
+    "index": "A",
+    "name": "Anton and Danik",
+    "url": "https://codeforces.com/contest/734/problem/A"
+  },
+  "228-A": {
+    "contestId": 228,
+    "index": "A",
+    "name": "Is your horseshoe on the other hoof?",
+    "url": "https://codeforces.com/contest/228/problem/A"
+  },
+  "271-A": {
+    "contestId": 271,
+    "index": "A",
+    "name": "Beautiful Year",
+    "url": "https://codeforces.com/contest/271/problem/A"
+  },
+  "110-A": {
+    "contestId": 110,
+    "index": "A",
+    "name": "Nearly Lucky Number",
+    "url": "https://codeforces.com/contest/110/problem/A"
+  },
+  "59-A": {
+    "contestId": 59,
+    "index": "A",
+    "name": "Word",
+    "url": "https://codeforces.com/contest/59/problem/A"
+  },
+  "791-A": {
+    "contestId": 791,
+    "index": "A",
+    "name": "Bear and Big Brother",
+    "url": "https://codeforces.com/contest/791/problem/A"
+  },
+  "281-A": {
+    "contestId": 281,
+    "index": "A",
+    "name": "Word Capitalization",
+    "url": "https://codeforces.com/contest/281/problem/A"
+  },
+  "339-A": {
+    "contestId": 339,
+    "index": "A",
+    "name": "Helpful Maths",
+    "url": "https://codeforces.com/contest/339/problem/A"
+  },
+  "2218-D": {
+    "contestId": 2218,
+    "index": "D",
+    "name": "The 67th OEIS Problem",
+    "url": "https://codeforces.com/contest/2218/problem/D"
+  },
+  "2218-C": {
+    "contestId": 2218,
+    "index": "C",
+    "name": "The 67th Permutation Problem",
+    "url": "https://codeforces.com/contest/2218/problem/C"
+  },
+  "2218-A": {
+    "contestId": 2218,
+    "index": "A",
+    "name": "The 67th Integer Problem",
+    "url": "https://codeforces.com/contest/2218/problem/A"
+  },
+  "2218-B": {
+    "contestId": 2218,
+    "index": "B",
+    "name": "The 67th 6-7 Integer Problem",
+    "url": "https://codeforces.com/contest/2218/problem/B"
+  },
+  "2200-C": {
+    "contestId": 2200,
+    "index": "C",
+    "name": "Specialty String",
+    "url": "https://codeforces.com/contest/2200/problem/C"
+  },
+  "2200-B": {
+    "contestId": 2200,
+    "index": "B",
+    "name": "Deletion Sort",
+    "url": "https://codeforces.com/contest/2200/problem/B"
+  },
+  "2200-A": {
+    "contestId": 2200,
+    "index": "A",
+    "name": "Eating Game",
+    "url": "https://codeforces.com/contest/2200/problem/A"
+  },
+  "2195-A": {
+    "contestId": 2195,
+    "index": "A",
+    "name": "Sieve of Erato67henes",
+    "url": "https://codeforces.com/contest/2195/problem/A"
+  },
+  "1742-A": {
+    "contestId": 1742,
+    "index": "A",
+    "name": "Sum",
+    "url": "https://codeforces.com/contest/1742/problem/A"
+  },
+  "2197-A": {
+    "contestId": 2197,
+    "index": "A",
+    "name": "Friendly Numbers",
+    "url": "https://codeforces.com/contest/2197/problem/A"
+  },
+  "1097-B": {
+    "contestId": 1097,
+    "index": "B",
+    "name": "Petr and a Combination Lock",
+    "url": "https://codeforces.com/contest/1097/problem/B"
+  },
+  "2167-A": {
+    "contestId": 2167,
+    "index": "A",
+    "name": "Square?",
+    "url": "https://codeforces.com/contest/2167/problem/A"
+  },
+  "2167-B": {
+    "contestId": 2167,
+    "index": "B",
+    "name": "Your Name",
+    "url": "https://codeforces.com/contest/2167/problem/B"
+  },
+  "540-A": {
+    "contestId": 540,
+    "index": "A",
+    "name": "Combination Lock",
+    "url": "https://codeforces.com/contest/540/problem/A"
+  },
+  "977-A": {
+    "contestId": 977,
+    "index": "A",
+    "name": "Wrong Subtraction",
+    "url": "https://codeforces.com/contest/977/problem/A"
+  },
+  "2155-A": {
+    "contestId": 2155,
+    "index": "A",
+    "name": "El fucho",
+    "url": "https://codeforces.com/contest/2155/problem/A"
+  },
+  "112-A": {
+    "contestId": 112,
+    "index": "A",
+    "name": "Petya and Strings",
+    "url": "https://codeforces.com/contest/112/problem/A"
+  },
+  "263-A": {
+    "contestId": 263,
+    "index": "A",
+    "name": "Beautiful Matrix",
+    "url": "https://codeforces.com/contest/263/problem/A"
+  },
+  "617-A": {
+    "contestId": 617,
+    "index": "A",
+    "name": "Elephant",
+    "url": "https://codeforces.com/contest/617/problem/A"
+  },
+  "158-A": {
+    "contestId": 158,
+    "index": "A",
+    "name": "Next Round",
+    "url": "https://codeforces.com/contest/158/problem/A"
+  },
+  "50-A": {
+    "contestId": 50,
+    "index": "A",
+    "name": "Domino piling",
+    "url": "https://codeforces.com/contest/50/problem/A"
+  },
+  "282-A": {
+    "contestId": 282,
+    "index": "A",
+    "name": "Bit++",
+    "url": "https://codeforces.com/contest/282/problem/A"
+  },
+  "2063-B": {
+    "contestId": 2063,
+    "index": "B",
+    "name": "Subsequence Update",
+    "url": "https://codeforces.com/contest/2063/problem/B"
+  },
+  "231-A": {
+    "contestId": 231,
+    "index": "A",
+    "name": "Team",
+    "url": "https://codeforces.com/contest/231/problem/A"
+  },
+  "1-A": {
+    "contestId": 1,
+    "index": "A",
+    "name": "Theatre Square",
+    "url": "https://codeforces.com/contest/1/problem/A"
+  },
+  "4-A": {
+    "contestId": 4,
+    "index": "A",
+    "name": "Watermelon",
+    "url": "https://codeforces.com/contest/4/problem/A"
+  },
+  "2094-A": {
+    "contestId": 2094,
+    "index": "A",
+    "name": "Trippi Troppi",
+    "url": "https://codeforces.com/contest/2094/problem/A"
+  },
+  "2148-B": {
+    "contestId": 2148,
+    "index": "B",
+    "name": "Lasers",
+    "url": "https://codeforces.com/contest/2148/problem/B"
+  },
+  "2149-A": {
+    "contestId": 2149,
+    "index": "A",
+    "name": "Be Positive",
+    "url": "https://codeforces.com/contest/2149/problem/A"
+  },
+  "2148-A": {
+    "contestId": 2148,
+    "index": "A",
+    "name": "Sublime Sequence",
+    "url": "https://codeforces.com/contest/2148/problem/A"
+  },
+  "474-A": {
+    "contestId": 474,
+    "index": "A",
+    "name": "Keyboard",
+    "url": "https://codeforces.com/contest/474/problem/A"
+  },
+  "1999-A": {
+    "contestId": 1999,
+    "index": "A",
+    "name": "A+B Again?",
+    "url": "https://codeforces.com/contest/1999/problem/A"
+  },
+  "630-D": {
+    "contestId": 630,
+    "index": "D",
+    "name": "Hexagons!",
+    "url": "https://codeforces.com/contest/630/problem/D"
+  },
+  "1030-A": {
+    "contestId": 1030,
+    "index": "A",
+    "name": "In Search of an Easy Problem",
+    "url": "https://codeforces.com/contest/1030/problem/A"
+  },
+  "71-A": {
+    "contestId": 71,
+    "index": "A",
+    "name": "Way Too Long Words",
+    "url": "https://codeforces.com/contest/71/problem/A"
+  }
+}
