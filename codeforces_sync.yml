@@ -26,7 +26,8 @@ jobs:
       - name: Sync solved problems
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          CF_HANDLE: ${{ secrets.CF_HANDLE }}
+          # Use the repository secret when configured; otherwise sync Shadoo25.
+          CF_HANDLE: ${{ secrets.CF_HANDLE || 'Shadoo25' }}
           GITHUB_REPO: ${{ github.repository }}
         run: |
           python sync_cf_to_github.py \
