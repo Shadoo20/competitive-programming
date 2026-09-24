@@ -538,5 +538,11 @@
     "index": "A",
     "name": "Way Too Long Words",
     "url": "https://codeforces.com/contest/71/problem/A"
+  },
+  "785-A": {
+    "contestId": 785,
+    "index": "A",
+    "name": "Anton and Polyhedrons",
+    "url": "https://codeforces.com/contest/785/problem/A"
   }
 }
