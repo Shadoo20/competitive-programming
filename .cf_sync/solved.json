@@ -556,5 +556,17 @@
     "index": "A",
     "name": "Lucky?",
     "url": "https://codeforces.com/contest/1676/problem/A"
+  },
+  "1351-B": {
+    "contestId": 1351,
+    "index": "B",
+    "name": "Square?",
+    "url": "https://codeforces.com/contest/1351/problem/B"
+  },
+  "479-A": {
+    "contestId": 479,
+    "index": "A",
+    "name": "Expression",
+    "url": "https://codeforces.com/contest/479/problem/A"
   }
 }
