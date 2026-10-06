@@ -568,5 +568,17 @@
     "index": "A",
     "name": "Expression",
     "url": "https://codeforces.com/contest/479/problem/A"
+  },
+  "598-A": {
+    "contestId": 598,
+    "index": "A",
+    "name": "Tricky Sum",
+    "url": "https://codeforces.com/contest/598/problem/A"
+  },
+  "1163-A": {
+    "contestId": 1163,
+    "index": "A",
+    "name": "Eating Soup",
+    "url": "https://codeforces.com/contest/1163/problem/A"
   }
 }
