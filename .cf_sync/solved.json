@@ -580,5 +580,23 @@
     "index": "A",
     "name": "Eating Soup",
     "url": "https://codeforces.com/contest/1163/problem/A"
+  },
+  "2275-C": {
+    "contestId": 2275,
+    "index": "C",
+    "name": "Unrequited Love",
+    "url": "https://codeforces.com/contest/2275/problem/C"
+  },
+  "2275-B": {
+    "contestId": 2275,
+    "index": "B",
+    "name": "Did Not Go to Print",
+    "url": "https://codeforces.com/contest/2275/problem/B"
+  },
+  "2275-A": {
+    "contestId": 2275,
+    "index": "A",
+    "name": "In Search of Convenience",
+    "url": "https://codeforces.com/contest/2275/problem/A"
   }
 }
