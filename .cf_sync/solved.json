@@ -598,5 +598,11 @@
     "index": "A",
     "name": "In Search of Convenience",
     "url": "https://codeforces.com/contest/2275/problem/A"
+  },
+  "467-A": {
+    "contestId": 467,
+    "index": "A",
+    "name": "George and Accommodation",
+    "url": "https://codeforces.com/contest/467/problem/A"
   }
 }
