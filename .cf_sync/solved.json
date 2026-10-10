@@ -604,5 +604,11 @@
     "index": "A",
     "name": "George and Accommodation",
     "url": "https://codeforces.com/contest/467/problem/A"
+  },
+  "2269-A": {
+    "contestId": 2269,
+    "index": "A",
+    "name": "SauSaGe Bank",
+    "url": "https://codeforces.com/contest/2269/problem/A"
   }
 }
