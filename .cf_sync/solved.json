@@ -610,5 +610,11 @@
     "index": "A",
     "name": "SauSaGe Bank",
     "url": "https://codeforces.com/contest/2269/problem/A"
+  },
+  "136-A": {
+    "contestId": 136,
+    "index": "A",
+    "name": "Presents",
+    "url": "https://codeforces.com/contest/136/problem/A"
   }
 }
