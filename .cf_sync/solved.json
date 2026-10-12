@@ -616,5 +616,11 @@
     "index": "A",
     "name": "Presents",
     "url": "https://codeforces.com/contest/136/problem/A"
+  },
+  "160-A": {
+    "contestId": 160,
+    "index": "A",
+    "name": "Twins",
+    "url": "https://codeforces.com/contest/160/problem/A"
   }
 }
